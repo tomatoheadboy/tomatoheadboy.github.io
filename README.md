@@ -3,4 +3,4 @@
 # Томатная головушка
 мой репозиторий аоаоаооа
 
-[урок 12](tomatoheadboy.github.io/lesson12/ "Мой урок 12")
+[урок 12](tomatoheadboy.github.io/test/ "Мой тест")
