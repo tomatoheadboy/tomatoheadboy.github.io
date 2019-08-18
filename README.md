@@ -3,4 +3,4 @@
 # Томатная головушка
 мой репозиторий аоаоаооа
 
-tomatoheadboy.github.io/test - мой тест
+http://tomatoheadboy.github.io/test/ - мой тест
